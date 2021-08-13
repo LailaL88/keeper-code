@@ -4,7 +4,6 @@ import Footer from './Footer';
 import Note from './Note';
 import CreateArea from './CreateArea';
 import '../styles.scss';
-// import notes from '../notes';
 
 function App() {
 
